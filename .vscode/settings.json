@@ -1,0 +1,27 @@
+{
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "cSpell.words": [
+    "cupertino",
+    "downvote",
+    "downvotes",
+    "geocode",
+    "geolounge",
+    "placemark",
+    "Postgrest",
+    "prefs",
+    "RGBO",
+    "rxdart",
+    "supabase",
+    "unawaited",
+    "upsert",
+    "upvote",
+    "upvotes"
+  ],
+  "deno.enablePaths": [
+    "supabase/functions"
+  ],
+  "deno.lint": true,
+  "deno.unstable": true
+}

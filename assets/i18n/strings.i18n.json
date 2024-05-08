@@ -1,0 +1,67 @@
+{
+    "auth":{
+        "onboarding_title":"Unlock the Map, Enter The GeoLounge",
+        "onboarding_slogan": "Anonymous Chats, Local & Global Bonds",
+        "google_sign_in": "Sign in With Google",
+        "continue_guest":"Continue as a guest"
+    },
+    "posts":{
+        "create_post": "Create Post",
+        "post": "Post",
+        "write_something": "Write Something",
+        "select_room": "Select A Room",
+        "choose_room":"Choose a room to help people discover your post",
+        "nothing_to_show":"Nothing to show here, Be the first!",
+        "something_wrong":"Something went wrong, please try again",
+        "send_message": "Send A Message",
+        "report": "Report",
+        "reply_to": "Reply to",
+        "delete": "Delete Permanently",
+        "options":"Options",
+        "go_back": "Go Back"
+    },
+    "chat":{
+        "chat_details":"Chat Details",
+        "too_short": "Too Short!",
+        "too_long":"Too Long!",
+        "chats":"Chats",
+        "options":"Options",
+        "confirm_delete": "Confirm Delete",
+        "are_you_sure":"Are you sure you want to delete this chat permanently? This will delete the chat from both you and other user",
+        "delete":"Delete",
+        "accept":"Accept",
+        "reject":"Reject",
+        "accepted":"Accepted"
+
+    },
+    "user":{
+        "need_location":"We need your location to continue",
+        "get_location":"Get Location"
+    },
+    "destinations":{
+        "posts":"Posts",
+        "chat":"Chat",
+        "account":"Account"
+    },
+    "rooms":{
+        "general":"general",
+        "ask": "ask",
+        "sport":"sport",
+        "fun":"fun",
+        "discussion":"discussion",
+        "news":"news"
+    },
+    "account":{
+        "language_changed":"Language changed, please restart the app",
+        "account":"Account",
+        "dark_theme":"Dark Theme",
+        "language":"Language",
+        "languages":"Languages",
+        "privacy_policy":"Privacy Policy",
+        "sign_out":"Sign out",
+        "delete_account":"Delete Account",
+        "delete_permanently":"Delete Account Permanently",
+        "confirm_delete_account":"Are you sure you want to delete your account permanently?This will delete all your information and you won't be able to restore them.",
+        "dismiss":"Dismiss"
+    }
+}

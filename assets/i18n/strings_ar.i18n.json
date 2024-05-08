@@ -1,0 +1,66 @@
+{
+    "auth":{
+        "onboarding_title":"فك الخريطة، وانغمس في الجيولاونج",
+        "onboarding_slogan": "محادثات سرية، روابط محلية وعالمية",
+        "google_sign_in": "سجل الدخول بقوقل",
+        "continue_guest":"استمر كضيف"
+    },
+    "posts":{
+        "create_post": "اكتب منشورًا",
+        "post": "أنشر",
+        "write_something": "اكتب شيئًا",
+        "select_room": "اختر غرفةً",
+        "choose_room":"اختر غرفةً لتساعد الاخرين على ايجاد منشورك",
+        "nothing_to_show":"لا شيء لنعرضه هنا، كن الأول!",
+        "something_wrong":"حدث خطآ ما، حاول مجددًا",
+        "send_message": "ارسل رسالة",
+        "report": "بلّغ",
+        "reply_to": "رد على",
+        "delete": "احذف نهائيًا",
+        "options":"خيارات",
+        "go_back": "ارجع"
+    },
+    "chat":{
+        "chat_details":"تفاصيل المحادثة",
+        "too_short": "قصير بزيادة",
+        "too_long":"طويل بزيادة",
+        "chats":"محادثات",
+        "options":"خيارات",
+        "confirm_delete": "أكد الحذف",
+        "are_you_sure":"متأكد تبي تحذف المحادثة نهائيًا؟ رح تختفي منك ومن الشخص الثاني",
+        "delete":"احذف",
+        "accept":"اقبل",
+        "reject":"ارفض",
+        "accepted":"قُبل"
+    },
+    "user":{
+        "need_location":"نحتاج موقعك لأستكمال التسجيل",
+        "get_location":"خذ الموقع"
+    },
+    "destinations":{
+        "posts":"منشورات",
+        "chat":"محادثات",
+        "account":"الحساب"
+    },
+    "rooms":{
+        "general":"عام",
+        "ask": "اسأل",
+        "sport":"رياضة",
+        "fun":"فلة",
+        "discussion":"نقاشات",
+        "news":"اخبار"
+    },
+    "account":{
+        "language_changed":"تغيرت اللغة، الرجاء اعد فتح التطبيق",
+        "account":"الحساب",
+        "dark_theme":"الوضع المظلم",
+        "language":"اللغة",
+        "languages":"اللغات",
+        "privacy_policy":"سياسة الخصوصية",
+        "sign_out":"سجل الخروج",
+        "delete_account":"احذف الحساب",
+        "delete_permanently":"احذف الحساب نهائيًا",
+        "confirm_delete_account":"متـأكد من حذف الحساب نهائيًا؟ستُحذف جميع بياناتك نهائيًا ولن تستطيع استعادتها",
+        "dismiss":"الغِ"
+    }
+}

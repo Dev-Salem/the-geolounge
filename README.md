@@ -1,7 +1,20 @@
 # Introduction
 
 The GeoLounge is an anonymous, location-based social media app with web support.
+## Features:
+• Share posts in different rooms and interact with other users in real-time.
 
+• Send chat requests to other users for private chatting.
+
+• Switch between the local lounge and the global one (engage with the users in your city or globally).
+
+• Use your favorite login method (anonymously or with Google).
+
+• Support for different languages (currently English & Arabic).
+
+• Light & dark themes.
+
+• Report inappropriate content.
 
 # Screenshots:
 ![img](https://i.postimg.cc/c46cXjTn/1.png)
@@ -14,4 +27,15 @@ The GeoLounge is an anonymous, location-based social media app with web support.
 # Demo
 
 [Try it here](https://dev-salem.github.io/)
-##### this demo version does not work on Firefox, [see](https://stackoverflow.com/questions/24371734/firefox-cross-origin-request-blocked-despite-headers)
+##### This demo version does not work on Firefox, [see](https://stackoverflow.com/questions/24371734/firefox-cross-origin-request-blocked-despite-headers)
+
+
+# Setup
+
+🚧🚧🚧
+
+
+# Roadmap
+⏳ Add widget tests
+
+⏳ Add more filters to the posts (filter by room or engagement).

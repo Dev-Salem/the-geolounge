@@ -24,18 +24,15 @@ The GeoLounge is an anonymous, location-based social media app with web support.
 ![img](https://i.postimg.cc/YSNNvw2J/5.png)
 
 
-# Demo
+## Demo
 
 [Try it here](https://dev-salem.github.io/)
 ##### This demo version does not work on Firefox, [see](https://stackoverflow.com/questions/24371734/firefox-cross-origin-request-blocked-despite-headers)
 
 
-# Setup
-
-🚧🚧🚧
-
-
-# Roadmap
+## Roadmap
 ⏳ Add widget tests
 
 ⏳ Add more filters to the posts (filter by room or engagement).
+
+⏳ Add support for push notification
